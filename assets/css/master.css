@@ -1,16 +1,6 @@
 @charset "UTF-8";
-/*-----------------------------------------------------------------------------------
-
-  Theme Name: Axtra - Digital Agency HTML5 Template
-  Author: Crowdyflow
-  Support: habib.crowdyflow@gmail.com
-  Description: BUILDY – is a  Constructor HTML5 template that comes with high-quality 3 Pre build Home Pages and many built-in awesome inner pages  which are perfect for any creative agencies, designers, digital agencies, freelancers, developers, designers, marketing, startup, blog and portfolio.
-  Version: 1.0
-
------------------------------------------------------------------------------------
 
 /************ TABLE OF CONTENTS ***************
-
   01. VARIBALES CSS START
   02. MIXIN CSS START
   03. SPACE CSS START
@@ -49,6 +39,7 @@
   36. ERROR CSS START
   37. HOME 5 CSS START
   38. FOOTER CSS START
+**********************************************/
 /*----------------------------------------*/
 /*  01. VARIBALES CSS START
 /*----------------------------------------*/
@@ -754,7 +745,7 @@ img {
   bottom: 20px;
   z-index: 9991;
   border-radius: 100px;
-  color: var(--secondary);
+  color: var(--white);
   background: var(--white);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -6699,7 +6690,6 @@ img {
     font-size: 48px;
   }
 }
-
 .hero__title-wrapper {
   max-width: 990px;
   position: relative;
@@ -21388,7 +21378,7 @@ img {
   text-align: right;
 }
 .footer__top img {
-  margin-bottom: -480px;
+  margin-bottom: -380px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer__top img {
@@ -34852,3 +34842,4 @@ ul.mega-menu-2.woocomerce-megamenu {
 .dark.dir-rtl .portfolio__about .brand-title-wrap {
   border-left: 1px solid var(--secondary);
 }
+/*# sourceMappingURL=master.css.map */

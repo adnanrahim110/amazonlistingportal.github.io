@@ -27,11 +27,11 @@
                   <div class="footer__widget-2">
                     <h2 class="footer__widget-title">Information</h2>
                     <ul class="footer__link">
-                      <li><a href="about.html">About Company</a></li>
-                      <li><a href="portfolio.html">Case Study</a></li>
-                      <li><a href="career.html">Career</a></li>
-                      <li><a href="blog.html">blog</a></li>
-                      <li><a href="contact.html">contact</a></li>
+                      <li><a href="about.php">About Company</a></li>
+                      <li><a href="portfolio.php">Case Study</a></li>
+                      <li><a href="career.php">Career</a></li>
+                      <li><a href="blog.php">blog</a></li>
+                      <li><a href="contact.php">contact</a></li>
                     </ul>
                   </div>
 
@@ -40,7 +40,7 @@
                     <ul class="footer__contact">
                       <li>Valentin, Street Road 24, New York, USA - 67452</li>
                       <li><a href="tel:02574328301" class="phone">+02) 574 - 328 - 301 </a></li>
-                      <li><a href="mailto:info@buildyexample.com">info@buildyexample.com</a></li>
+                      <li><a href="mailto:info@amazonlistingportal.com">info@amazonlistingportal.com</a></li>
                     </ul>
                   </div>
 
@@ -50,13 +50,15 @@
                       <a href="contact.html" class="wc-btn-primary btn-hover btn-item"><span></span> contact us <i
                           class="fa-solid fa-arrow-right"></i></a>
                     </div>
-                    <h3 class="contact-time">09 : 00 AM - 10 : 30 PM</h3>
-                    <h4 class="contact-day">Saturday - Thursday</h4>
                   </div>
 
                   <div class="footer__copyright">
-                    <p>© 2022 - 2025 | Alrights reserved by <a href="https://dev.wealcoder.com/"
-                        target="_blank">Wealcoder</a>
+                    <p>&copy; 2024 | <a href=""
+                        target="_blank">Amazon Listing Portal</a>
+                    </p>
+                    <p class="text-capitalize ft-sign">
+                      <span><a href="">terms & Conditions</a></span> | 
+                      <span><a href="">Privacy Policy</a></span>
                     </p>
                   </div>
 

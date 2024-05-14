@@ -65,7 +65,7 @@
         <button id="open_offcanvas"><img src="assets/imgs/icon/menu-white.png" alt="Menubar Icon"></button>
       </div>
       <div class="header__support">
-        <p>Support center <a href="tel:+9587325902">+9 587 325 902</a></p>
+        <p>Get in touch <a href="tel:+9587325902">+9 587 325 902</a></p>
       </div>
     </div>
   </header>
@@ -79,12 +79,10 @@
         <div class="offcanvas__social">
           <h3 class="social-title">Follow Us</h3>
           <ul>
-            <li><a href="#">Dribbble</a></li>
-            <li><a href="#">Behance</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Facebook</a></li>
             <li><a href="#">Twitter</a></li>
-            <li><a href="#">YouTube</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
           </ul>
         </div>
       </div>
@@ -92,11 +90,11 @@
         <div class="offcanvas__menu-wrapper">
           <nav class="offcanvas__menu">
             <ul class="menu-anim">
-              <li><a href="index">Home</a></li>
-              <li><a href="services">services</a></li>
-              <li><a href="portfolio">portfolio</a></li>
-              <li><a href="about">about</a></li>
-              <li><a href="contact">contact</a></li>
+              <li><a href="index.php">Home</a></li>
+              <li><a href="services.php">services</a></li>
+              <li><a href="portfolio.php">portfolio</a></li>
+              <li><a href="about.php">about</a></li>
+              <li><a href="contact.php">contact</a></li>
             </ul>
           </nav>
         </div>

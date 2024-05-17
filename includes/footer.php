@@ -53,12 +53,8 @@
                   </div>
 
                   <div class="footer__copyright">
-                    <p>&copy; 2024 | <a href=""
-                        target="_blank">Amazon Listing Portal</a>
-                    </p>
-                    <p class="text-capitalize ft-sign">
-                      <a href=""><span>terms & Conditions</span></a> | 
-                      <a href=""><span>Privacy Policy</span></a>
+                    <p>© 2022 - 2025 | Alrights reserved by <a href="https://dev.wealcoder.com/"
+                        target="_blank">Wealcoder</a>
                     </p>
                   </div>
 

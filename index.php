@@ -8,10 +8,9 @@
                     <a href="service.html">Strategy, Design, Solution Development <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     <div class="hero__title-wrapper">
                         <h1 class="hero__title">Amazon Listing portal</h1>
-                        <p class="hero__sub-title">With every single one of our clients, we
-                            bring forth deep passion for
-                            <span>creative problem solving</span>
-                            which is what we deliver.
+                        <p class="hero__sub-title">
+                            Let us help you build your online business the right way.  
+                            Just believe it’s possible, and we’ll take care of the rest.
                         </p>
                     </div>
                     <img src="assets/imgs/icon/arrow-down-big.png" alt="Arrow Down Icon">
@@ -24,7 +23,7 @@
         </div>
     </div>
 
-    <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
+    <img src="assets/imgs/index-bg.png" alt="image" class="hero1_bg">
 </section>
 <!-- Roll area start -->
 <section class="roll__area">
@@ -92,11 +91,11 @@
                 <div class="about__content-wrapper">
                     <div class="about__img">
                         <div class="img-anim">
-                            <img src="assets/imgs/about/1/1.jpg" alt="About Image" data-speed="0.3">
+                            <img src="assets/imgs/about1.jpg" alt="About Image" data-speed="0.3">
                         </div>
 
                         <div class="about__img-right">
-                            <img src="assets/imgs/about/1/2.jpg" alt="About Image Right" data-speed="0.5">
+                            <img src="assets/imgs/about2.jpg" alt="About Image Right" data-speed="0.5">
                             <div class="shape">
                                 <div class="secondary" data-speed="0.9"></div>
                                 <div class="primary"></div>
@@ -156,10 +155,10 @@
             <div class="row">
                 <div class="col-xxl-4 col-xl-4 col-lg-0 col-md-0">
                     <div class="service__img-wrapper">
-                        <img src="assets/imgs/service/1/1.jpg" alt="Service Image" class="service__img img-1 active">
-                        <img src="assets/imgs/service/1/2.png" alt="Service Image" class="service__img img-2">
-                        <img src="assets/imgs/service/1/3.png" alt="Service Image" class="service__img img-3">
-                        <img src="assets/imgs/service/1/4.png" alt="Service Image" class="service__img img-4">
+                        <img src="assets/imgs/home-serv1.jpg" alt="Service Image" class="service__img img-1 active">
+                        <img src="assets/imgs/home-serv2.jpg" alt="Service Image" class="service__img img-2">
+                        <img src="assets/imgs/home-serv3.jpg" alt="Service Image" class="service__img img-3">
+                        <img src="assets/imgs/home-serv4.jpg" alt="Service Image" class="service__img img-4">
 
                         <span class="shape-box-1 current"></span>
                         <span class="shape-box-2"></span>
@@ -173,8 +172,7 @@
                             <div class="service__item animation_home1_service" data-service="1">
                                 <div class="service__number"><span>01</span></div>
                                 <div class="service__title-wrapper">
-                                    <h4 class="service__title">Web & Mobile
-                                        Development</h4>
+                                    <h4 class="service__title">Growth Planning Strategy</h4>
                                 </div>
                                 <div class="service__text">
                                     <p>We create, products, brands, apps & websites for the companies all around the
@@ -192,7 +190,7 @@
                             <div class="service__item  animation_home1_service" data-service="2">
                                 <div class="service__number"><span>02</span></div>
                                 <div class="service__title-wrapper">
-                                    <h4 class="service__title">Interaction <br>Design</h4>
+                                    <h4 class="service__title">PPC advertisement</h4>
                                 </div>
                                 <div class="service__text">
                                     <p>We create, products, brands, apps & websites for the companies all around the
@@ -210,7 +208,7 @@
                             <div class="service__item  animation_home1_service" data-service="3">
                                 <div class="service__number"><span>03</span></div>
                                 <div class="service__title-wrapper">
-                                    <h4 class="service__title">Digital <br>Maketing</h4>
+                                    <h4 class="service__title">Product listening optimization</h4>
                                 </div>
                                 <div class="service__text">
                                     <p>We create, products, brands, apps & websites for the companies all around the
@@ -228,7 +226,7 @@
                             <div class="service__item  animation_home1_service" data-service="4">
                                 <div class="service__number"><span>04</span></div>
                                 <div class="service__title-wrapper">
-                                    <h4 class="service__title">Branding and Strategy</h4>
+                                    <h4 class="service__title">Demand Side Platform (DSP)</h4>
                                 </div>
                                 <div class="service__text">
                                     <p>We create, products, brands, apps & websites for the companies all around the

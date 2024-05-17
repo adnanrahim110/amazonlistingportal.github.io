@@ -34556,6 +34556,10 @@ ul.mega-menu-2.woocomerce-megamenu {
   padding-left: 0;
   padding-right: 120px;
 }
+.ft-sign a {
+  font-size: 12px;
+  color: #;
+}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .dir-rtl .part.showed p {
     padding-right: 70px;
